@@ -173,8 +173,8 @@ with tab1:
             stroke_width=20,
             stroke_color="rgb(255, 255, 255)",
             background_color="rgb(0, 0, 0)",
-            height=280,
-            width=280,
+            height=150,
+            width=150,
             drawing_mode="freedraw",
             key="canvas",
         )
